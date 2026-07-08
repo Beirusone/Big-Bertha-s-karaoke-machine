@@ -1,0 +1,6 @@
+{
+  "name": "Big Bertha's Karaoke Machine",
+  "description": "A native karaoke app featuring hardware echo-cancelled real-time microphone loopback and a floating YouTube backing track player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
